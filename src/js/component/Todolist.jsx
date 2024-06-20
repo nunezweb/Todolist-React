@@ -3,7 +3,7 @@ import Icono from "./Icono";
 
 // Add into array -> concat
 // Delete from array -> filter
-// Update -> map
+// Update -> map.
 
 const ToDoList = () => {
   const [inputValue, setInputValue] = useState("");
